@@ -9,6 +9,5 @@ public struct CreateSimplePackageDependency {
 
 
 public class Validator: NSObject {
-    public init() {}
     public var name = "Guru Mahan"
 }
