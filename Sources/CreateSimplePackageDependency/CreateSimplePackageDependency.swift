@@ -4,3 +4,8 @@ public struct CreateSimplePackageDependency {
     public init() {
     }
 }
+
+
+public class Validator: NSObject {
+    public var name = "Guru Mahan"
+}
